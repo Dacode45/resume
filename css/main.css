@@ -1,2 +1,17 @@
 /*! Your Custom styles */
 
+.intro > table{
+	width:100%;
+	border:0px solid white;
+	text-align:center
+}
+.intro > h1{
+	
+	text-align:center;
+}
+
+.info > table{
+	width:100%;
+	text-align:right;
+	
+}
