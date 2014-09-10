@@ -9,11 +9,20 @@ body{
 
 }
 
+section:hover{
+	border:10px solid #67ff4d;
+	background-color:#b8cee0;
+	color:#304251;
+}
+
 section.intro > table{
 	width:100%;
 	border:0px solid white;
 	text-align:center
 }
+
+
+
 section.intro a> h1{
 	
 	text-align:center;
@@ -21,7 +30,9 @@ section.intro a> h1{
 }
 
 section .info{
-	width:100%;
+	
+	width:45%;
+	float:left;
 	margin-left: 50px;
 	padding: 50px;
 }
